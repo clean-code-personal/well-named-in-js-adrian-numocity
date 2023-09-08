@@ -1,5 +1,5 @@
 
-let ColorPair = require('./color_pair');
+let ColorPair = require('./colorPair');
 let conversion = require('./conversion');
 const print_manual = require('./manual');
 

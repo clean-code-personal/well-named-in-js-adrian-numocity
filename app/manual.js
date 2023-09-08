@@ -1,4 +1,4 @@
-const colorCode = require('./color_code');
+const colorCode = require('./colorCode');
 const conversion = require('./conversion');
 
 function print_manual(){

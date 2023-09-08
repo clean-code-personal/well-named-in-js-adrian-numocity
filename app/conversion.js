@@ -1,5 +1,5 @@
-const colorCode = require('./color_code');
-let ColorPair = require('./color_pair');
+const colorCode = require('./colorCode');
+let ColorPair = require('./colorPair');
 
 function getColorFromPairNumber(pairNumber)
 {
